@@ -1,0 +1,13 @@
+{
+  "name": "zhaoyuan-draw-guess",
+  "version": "1.0.0",
+  "description": "招远方言版你画我猜（局域网/联机）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "localtunnel": "^2.0.2",
+    "ws": "^8.22.0"
+  }
+}
